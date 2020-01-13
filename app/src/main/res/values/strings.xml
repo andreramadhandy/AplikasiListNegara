@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aplikasi List View 3</string>
+    <string name="country_nama">Nama Negara</string>
+    <string name="country_detail">Detail Negara</string>
+</resources>
